@@ -1,2 +1,3 @@
 # bulk-RNAseq
-Pipeline build by Zhoufei
+
+Scripts for analysis of DE genes with DESeq2 and edgeR
